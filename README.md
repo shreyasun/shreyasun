@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m Shreya!
 - 👀 I’m an aspiring software engineer, currently studying Computer Science at UCSC
-- 🌱 I’m currently learning Python programming and web development
+- 🌱 I’m currently learning Python programming and full stack web development
 - 📫 Contact me at shreyasundar27@gmail.com or check out my Linkedin @shreyasundar
 
 <!---
