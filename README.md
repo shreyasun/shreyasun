@@ -1,7 +1,8 @@
 - 👋 Hey there, I’m Shreya!
 - 👀 I’m an aspiring software engineer, currently studying Computer Science at UCSC
-- 🌱 I’m currently developing my programming skills in C, C++, and Python, and am learning full stack web development!
-- 📫 Contact me at ssundar6@ucsc.edu or check out my Linkedin @shreyasundar
+- 🌺 I'm passionate about building innovative software solutions
+- 🌱 I’m learning full stack web development, artificial intelligence, cloud computing, and more
+- 📫 Contact me at ssundar6@ucsc.edu, or check out my Linkedin, www.linkedin.com/shreyasundar
 
 <!---
 shreyasun/shreyasun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
