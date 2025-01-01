@@ -5,9 +5,9 @@
 - 🌌 Enjoys long walks, traveling, and reading
 
 Contact me!
-- 💻 Portfolio: https://shreya-sundar.netlify.app/
+- 💻 Portfolio: [https://shreyasun.github.io](https://shreyasun.github.io)
 - 📧 Email: shreyasundar27@gmail.com
-- 🔗 Linkedin: https://www.linkedin.com/in/shreyasundar/
+- 🔗 Linkedin: [https://www.linkedin.com/in/shreyasundar/](https://www.linkedin.com/in/shreyasundar/)
   
 <!---
 shreyasun/shreyasun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
