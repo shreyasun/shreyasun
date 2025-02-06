@@ -1,7 +1,8 @@
 👋 Hey there, I’m Shreya!
-- 👩🏽‍💻 A software engineer passionate about developing and designing innovative software solutions for social good
+- 🥰 Software engineer @ Realtor.com
+- 👩🏽‍💻 Passionate about developing and designing innovative software solutions for social good
 - 🎓 UC Santa Cruz B.S. Computer Science grad
-- 🌱 Learning about data analytics, GenAI, cloud computing, and more
+- 🌱 Learning about data analytics, GenAI, machine learning, cloud infrastructure, and more
 - 🌌 Enjoys long walks, traveling, and reading
 
 Contact me!
