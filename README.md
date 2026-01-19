@@ -7,7 +7,7 @@
 
 Contact me!
 - 💻 Portfolio: [https://shreyasun.github.io](https://shreyasun.github.io)
-- 📧 Email: shreyasundar27@gmail.com
+- 📧 Email: sundarshreya27@gmail.com
 - 🔗 Linkedin: [https://www.linkedin.com/in/shreyasundar/](https://www.linkedin.com/in/shreyasundar/)
   
 <!---
